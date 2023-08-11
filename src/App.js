@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import * as React from 'react'
+import NavBar from './components/navbar/NavBar'
+import MainContent from './components/main/MainContent'
+import Lekcie from './components/lekcie/Lekcie'
+import Kvizy from './components/kvizy/Kvizy'
+import Footer from './components/footer/Footer'
+import Diagramy from './components/Diagramy/Diagramy'
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <BrowserRouter>
+      <NavBar />
+      <Routes>
+        <Route path="/" element={<Navigate to="/domov" />}></Route>
+        <Route path="/domov" element={<MainContent />} />
+        <Route path="/lekcie" element={<Lekcie />} />
+        <Route path="/kvízy" element={<Kvizy />} />
+        <Route path="/diagramy" element={<Diagramy />} />
+      </Routes>
+      <Footer />
+    </BrowserRouter>
+  )
 }
 
-export default App;
+export default App

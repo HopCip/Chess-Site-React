@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "question": "Ako sa volá tento typ pešiaka?",
+    "image": "/images/chess4.jpg",
+    "answers": [
+      { "id": "a", "text": "Izolovaný", "correct": true },
+      { "id": "b", "text": "Voľný", "correct": false },
+      { "id": "c", "text": "Krytý", "correct": false },
+      { "id": "d", "text": "Zdvojený", "correct": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Aký ťah musí potiahnúť biely?",
+    "image": "/images/chess2.jpg",
+    "answers": [
+      { "id": "a", "text": "Ve4", "correct": false },
+      { "id": "b", "text": "De5", "correct": true },
+      { "id": "c", "text": "Ja3", "correct": false },
+      { "id": "d", "text": "c7", "correct": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Čo platí o kráľoch v koncovke?",
+    "image": "/images/chess3.jpg",
+    "answers": [
+      { "id": "a", "text": "Treba ich schovať", "correct": false },
+      { "id": "b", "text": "Získavajú na sile", "correct": true },
+      { "id": "c", "text": "Musia ísť na kraj", "correct": false },
+      { "id": "d", "text": "Netreba nimi hýbať", "correct": false }
+    ]
+  }
+]

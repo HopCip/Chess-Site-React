@@ -60,7 +60,7 @@ const lekcieData = [
     title: 'Pešiak na c stĺpci',
     category: 'dámové',
     difficulty: 'ťažké',
-    img: './images/chess8.jpg',
+    img: './images/chess6.jpg',
     text: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed`,
   },
   {
@@ -244,7 +244,7 @@ const lekcieData = [
     title: 'Opačný strelci',
     category: 'vežové',
     difficulty: 'ľahké',
-    img: './images/chess9.jpg',
+    img: './images/chess2.jpg',
     text: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed`,
   },
   {
@@ -252,7 +252,7 @@ const lekcieData = [
     title: 'Opačný strelci',
     category: 'strelcové',
     difficulty: 'ťažké',
-    img: './images/chess9.jpg',
+    img: './images/chess3.jpg',
     text: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed`,
   },
   {
@@ -260,7 +260,7 @@ const lekcieData = [
     title: 'Opačný strelci',
     category: 'strelcové',
     difficulty: 'stredné',
-    img: './images/chess9.jpg',
+    img: './images/chess4.jpg',
     text: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed`,
   },
   {
@@ -268,7 +268,7 @@ const lekcieData = [
     title: 'Opačný strelci',
     category: 'pešiakové',
     difficulty: 'ťažké',
-    img: './images/chess9.jpg',
+    img: './images/chess5.jpg',
     text: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed`,
   },
   {
@@ -276,7 +276,7 @@ const lekcieData = [
     title: 'Opačný strelci',
     category: 'pešiakové',
     difficulty: 'ľahké',
-    img: './images/chess9.jpg',
+    img: './images/chess6.jpg',
     text: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed`,
   },
   {
@@ -284,7 +284,7 @@ const lekcieData = [
     title: 'Opačný strelci',
     category: 'jazdcové',
     difficulty: 'stredné',
-    img: './images/chess9.jpg',
+    img: './images/chess8.jpg',
     text: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed`,
   },
   {
@@ -292,7 +292,7 @@ const lekcieData = [
     title: 'Opačný strelci',
     category: 'vežové',
     difficulty: 'ťažké',
-    img: './images/chess9.jpg',
+    img: './images/chess7.jpg',
     text: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed`,
   },
   {

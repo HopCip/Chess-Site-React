@@ -6,6 +6,7 @@ import Grid from '@mui/material/Grid'
 import PuzzleItem from './PuzzleItem.js'
 import puzzleData from './puzzleData.js'
 import Difficulties from './Difficulties.js'
+import Citat from '../Citat/Citat.js'
 import Pagination from '@mui/material/Pagination'
 
 const allDifficulties = [
@@ -100,6 +101,9 @@ const Diagramy = () => {
           onChange={handlePageChange}
           page={selectedPage}
         />
+      </Box>
+      <Box sx={{ paddingY: 5 }}>
+        <Citat></Citat>
       </Box>
     </Container>
   )

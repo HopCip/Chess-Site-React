@@ -4,6 +4,7 @@ import Container from '@mui/material/Container'
 import Box from '@mui/material/Box'
 import Grid from '@mui/material/Grid'
 import MainItem from './MainItem'
+import Citat from '../Citat/Citat'
 import data from './data.js'
 
 const MainContent = () => {
@@ -28,6 +29,9 @@ const MainContent = () => {
             })}
           </Grid>
         </Box>
+      </Box>
+      <Box sx={{ marginTop: 14 }}>
+        <Citat></Citat>
       </Box>
     </Container>
   )

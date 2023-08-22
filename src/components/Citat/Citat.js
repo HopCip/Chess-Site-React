@@ -20,7 +20,7 @@ const Citat = () => {
   return (
     <Box align="center" sx={{ marginBottom: 4 }}>
       <Typography variant="body1" color="textPrimary">
-        "{text}"
+        &quot;{text}`&quot;
         <br />
         <br />- {author}
       </Typography>

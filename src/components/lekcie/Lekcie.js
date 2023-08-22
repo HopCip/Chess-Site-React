@@ -7,6 +7,7 @@ import Pagination from '@mui/material/Pagination'
 import lekcieData from './lekcieData'
 import LekcieItem from './LekcieItem'
 import Categories from './Categories'
+import Citat from '../Citat/Citat'
 
 const allCategories = [
   'Všetky',
@@ -75,10 +76,11 @@ const Lekcie = () => {
         <Typography
           variant="h2"
           gutterBottom
-          sx={{ textAlign: 'center', paddingY: 4 }}
+          sx={{ textAlign: 'center', paddingTop: 5, paddingBottom: 2 }}
         >
           Šachové lekcie
         </Typography>
+        <Citat></Citat>
         <Categories
           categories={categories}
           filterItems={filterItems}

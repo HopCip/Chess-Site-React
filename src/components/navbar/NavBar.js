@@ -14,7 +14,7 @@ import MenuItem from '@mui/material/MenuItem'
 import AdbIcon from '@mui/icons-material/Adb'
 import { Link } from 'react-router-dom'
 
-const pages = ['Domov', 'Lekcie', 'Diagramy', 'Kvízy']
+const pages = ['Domov', 'Lekcie', 'Diagramy', 'Kvízy', 'Cenník']
 const settings = ['Profil', 'Účet', 'Dashboard', 'Odhlásiť sa']
 
 function NavBar() {

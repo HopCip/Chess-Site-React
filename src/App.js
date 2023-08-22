@@ -5,6 +5,7 @@ import Lekcie from './components/lekcie/Lekcie'
 import Kvizy from './components/kvizy/Kvizy'
 import Footer from './components/footer/Footer'
 import Diagramy from './components/Diagramy/Diagramy'
+import Cennik from './components/Cennik/Cennik'
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Route path="/lekcie" element={<Lekcie />} />
         <Route path="/kvízy" element={<Kvizy />} />
         <Route path="/diagramy" element={<Diagramy />} />
+        <Route path="/cenník" element={<Cennik />} />
       </Routes>
       <Footer />
     </BrowserRouter>

@@ -31,5 +31,207 @@
       { "id": "c", "text": "Musia ísť na kraj", "correct": false },
       { "id": "d", "text": "Netreba nimi hýbať", "correct": false }
     ]
+  },
+  {
+    "id": 4,
+    "question": "Ktorá figúrka sa pohybuje diagonálne?",
+    "image": "/images/chess5.jpg",
+    "answers": [
+      { "id": "a", "text": "Kráľ", "correct": false },
+      { "id": "b", "text": "Dáma", "correct": true },
+      { "id": "c", "text": "Vezír", "correct": false },
+      { "id": "d", "text": "Strelec", "correct": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess6.jpg",
+    "answers": [
+      { "id": "a", "text": "Biela veža je silná", "correct": true },
+      { "id": "b", "text": "Čierna veža je silná", "correct": false },
+      { "id": "c", "text": "Obe veže sú silné", "correct": false },
+      { "id": "d", "text": "Ani jedna veža nie je silná", "correct": false }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Aká farba políčka je na začiatku v strede šachovnice?",
+    "image": "/images/chess6.jpg",
+    "answers": [
+      { "id": "a", "text": "Biela", "correct": true },
+      { "id": "b", "text": "Čierna", "correct": false },
+      { "id": "c", "text": "Zelená", "correct": false },
+      { "id": "d", "text": "Červená", "correct": false }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Aký ťah musí potiahnúť biely?",
+    "image": "/images/chess6.jpg",
+    "answers": [
+      { "id": "a", "text": "Je3", "correct": true },
+      { "id": "b", "text": "Je6", "correct": false },
+      { "id": "c", "text": "Sg8", "correct": false },
+      { "id": "d", "text": "Ani jedna možnosť", "correct": false }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Správny ťah v danej pozícií je?",
+    "image": "/images/chess6.jpg",
+    "answers": [
+      { "id": "a", "text": "Se5", "correct": false },
+      { "id": "b", "text": "Kg3", "correct": false },
+      { "id": "c", "text": "Kg1", "correct": true },
+      { "id": "d", "text": "Vb2", "correct": false }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess6.jpg",
+    "answers": [
+      { "id": "a", "text": "Biely na ťahu vyhráva", "correct": true },
+      { "id": "b", "text": "Čierny na ťahu vyhráva", "correct": false },
+      { "id": "c", "text": "Kto je na ťahu prehráva", "correct": false },
+      { "id": "d", "text": "Čierny na ťahu prehráva", "correct": false }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess6.jpg",
+    "answers": [
+      { "id": "a", "text": "Biely má slabé biele polia", "correct": false },
+      { "id": "b", "text": "Biely má slabé čierne polia", "correct": false },
+      { "id": "c", "text": "Biely nemá slabé polia", "correct": true },
+      { "id": "d", "text": "Čierny nemá slabé polia", "correct": false }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess6.jpg",
+    "answers": [
+      { "id": "a", "text": "Biely má slabé biele polia", "correct": false },
+      { "id": "b", "text": "Biely má slabé čierne polia", "correct": false },
+      { "id": "c", "text": "Biely nemá slabé polia", "correct": true },
+      { "id": "d", "text": "Čierny nemá slabé polia", "correct": false }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess6.jpg",
+    "answers": [
+      { "id": "a", "text": "Biely má slabé biele polia", "correct": false },
+      { "id": "b", "text": "Biely má slabé čierne polia", "correct": true },
+      { "id": "c", "text": "Biely nemá slabé polia", "correct": false },
+      { "id": "d", "text": "Čierny nemá slabé polia", "correct": false }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess6.jpg",
+    "answers": [
+      { "id": "a", "text": "Biely má slabé biele polia", "correct": false },
+      { "id": "b", "text": "Biely má slabé čierne polia", "correct": false },
+      { "id": "c", "text": "Biely nemá slabé polia", "correct": true },
+      { "id": "d", "text": "Čierny nemá slabé polia", "correct": false }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess7.jpg",
+    "answers": [
+      { "id": "a", "text": "Biely stojí lepšie", "correct": false },
+      { "id": "b", "text": "Čierny stojí lepšie", "correct": false },
+      { "id": "c", "text": "Pozícia je vyrovnaná", "correct": true },
+      { "id": "d", "text": "Kto je na ťahu vyhrá", "correct": false }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Čo platí o veži a voľnom pešiakovi?",
+    "image": "/images/chess5.jpg",
+    "answers": [
+      { "id": "a", "text": "Veža patrí za pešiaka", "correct": true },
+      { "id": "b", "text": "Veža patrí pred pešiaka ", "correct": false },
+      { "id": "c", "text": "Veža patrí veďla pešiaka", "correct": false },
+      {
+        "id": "d",
+        "text": "Ani jedna možnosť nie je správna",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess6.jpg",
+    "answers": [
+      { "id": "a", "text": "Biely stojí lepšie", "correct": false },
+      { "id": "b", "text": "Čierny stojí lepšie", "correct": false },
+      { "id": "c", "text": "Pozícia je vyrovnaná", "correct": false },
+      { "id": "d", "text": "Kto je na ťahu vyhrá", "correct": true }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess4.jpg",
+    "answers": [
+      { "id": "a", "text": "Biely má slabé biele polia", "correct": false },
+      { "id": "b", "text": "Biely má slabé čierne polia", "correct": false },
+      { "id": "c", "text": "Biely nemá slabé polia", "correct": true },
+      { "id": "d", "text": "Čierny nemá slabé polia", "correct": false }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Aká farba políčka je na začiatku v strede šachovnice?",
+    "image": "/images/chess3.jpg",
+    "answers": [
+      { "id": "a", "text": "Biela", "correct": true },
+      { "id": "b", "text": "Čierna", "correct": false },
+      { "id": "c", "text": "Zelená", "correct": false },
+      { "id": "d", "text": "Červená", "correct": false }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess1.jpg",
+    "answers": [
+      { "id": "a", "text": "Biely stojí lepšie", "correct": false },
+      { "id": "b", "text": "Čierny stojí lepšie", "correct": false },
+      { "id": "c", "text": "Pozícia je vyrovnaná", "correct": false },
+      { "id": "d", "text": "Kto je na ťahu vyhrá", "correct": true }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Aká farba políčka je na začiatku v strede šachovnice?",
+    "image": "/images/chess2.jpg",
+    "answers": [
+      { "id": "a", "text": "Biela", "correct": true },
+      { "id": "b", "text": "Čierna", "correct": false },
+      { "id": "c", "text": "Zelená", "correct": false },
+      { "id": "d", "text": "Červená", "correct": false }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Čo platí na danú pozíciu?",
+    "image": "/images/chess5.jpg",
+    "answers": [
+      { "id": "a", "text": "Biely stojí lepšie", "correct": false },
+      { "id": "b", "text": "Čierny stojí lepšie", "correct": false },
+      { "id": "c", "text": "Pozícia je vyrovnaná", "correct": true },
+      { "id": "d", "text": "Kto je na ťahu vyhrá", "correct": false }
+    ]
   }
 ]

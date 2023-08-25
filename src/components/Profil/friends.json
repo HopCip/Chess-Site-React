@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "meno": "Janka Hrubá",
+    "vlajka": "./images/slovensko2.png",
+    "uroven": "začiatočník",
+    "priatelia": "22",
+    "uspechy": "8/100",
+    "aktivita": "online"
+  },
+  {
+    "id": 2,
+    "meno": "Pavel Horák",
+    "vlajka": "./images/cesko.png",
+    "uroven": "začiatočník",
+    "priatelia": "12",
+    "uspechy": "11/100",
+    "aktivita": "offline"
+  },
+  {
+    "id": 3,
+    "meno": "Tereza Kováčová",
+    "vlajka": "./images/slovensko2.png",
+    "uroven": "stredne pokročilý",
+    "priatelia": "19",
+    "uspechy": "33/100",
+    "aktivita": "away"
+  },
+  {
+    "id": 4,
+    "meno": "Matthew Davidson",
+    "vlajka": "./images/uk.png",
+    "uroven": "začiatočník",
+    "priatelia": "32",
+    "uspechy": "13/100",
+    "aktivita": "online"
+  },
+  {
+    "id": 5,
+    "meno": "Bjorn Lindstrom",
+    "vlajka": "./images/dansko.png",
+    "uroven": "pokročilý",
+    "priatelia": "15",
+    "uspechy": "56/100",
+    "aktivita": "offline"
+  },
+  {
+    "id": 6,
+    "meno": "Samuel Horváth",
+    "vlajka": "./images/slovensko2.png",
+    "uroven": "stredne pokročilý",
+    "priatelia": "8",
+    "uspechy": "44/100",
+    "aktivita": "online"
+  },
+  {
+    "id": 7,
+    "meno": "Hans Feure",
+    "vlajka": "./images/nemecko.png",
+    "uroven": "začiatočník",
+    "priatelia": "11",
+    "uspechy": "4/100",
+    "aktivita": "away"
+  },
+  {
+    "id": 8,
+    "meno": "Filip Novák",
+    "vlajka": "./images/cesko.png",
+    "uroven": "pokročilý",
+    "priatelia": "14",
+    "uspechy": "78/100",
+    "aktivita": "online"
+  },
+  {
+    "id": 9,
+    "meno": "Giovanni Belluci",
+    "vlajka": "./images/taliansko.png",
+    "uroven": "stredne pokročilý",
+    "priatelia": "25",
+    "uspechy": "56/100",
+    "aktivita": "offline"
+  },
+  {
+    "id": 10,
+    "meno": "Mitch McKenzie",
+    "vlajka": "./images/kanada.png",
+    "uroven": "začiatočník",
+    "priatelia": "19",
+    "uspechy": "18/100",
+    "aktivita": "offline"
+  },
+  {
+    "id": 11,
+    "meno": "Blazek Jankowsczki",
+    "vlajka": "./images/polsko.png",
+    "uroven": "pokročilý",
+    "priatelia": "4",
+    "uspechy": "87/100",
+    "aktivita": "online"
+  },
+  {
+    "id": 12,
+    "meno": "Alfren Nilsson",
+    "vlajka": "./images/svedsko.png",
+    "uroven": "pokročilý",
+    "priatelia": "33",
+    "uspechy": "67/100",
+    "aktivita": "away"
+  },
+  {
+    "id": 13,
+    "meno": "Emma Silná",
+    "vlajka": "./images/slovensko2.png",
+    "uroven": "stredne pokročilý",
+    "priatelia": "45",
+    "uspechy": "52/100",
+    "aktivita": "online"
+  },
+  {
+    "id": 14,
+    "meno": "Miloš Říha",
+    "vlajka": "./images/cesko.png",
+    "uroven": "začiatočník",
+    "priatelia": "14",
+    "uspechy": "6/100",
+    "aktivita": "offline"
+  },
+  {
+    "id": 15,
+    "meno": "Karel Svoboda",
+    "vlajka": "./images/cesko.png",
+    "uroven": "stredne pokročilý",
+    "priatelia": "44",
+    "uspechy": "47/100",
+    "aktivita": "away"
+  },
+  {
+    "id": 16,
+    "meno": "Ludvik Gustavsson",
+    "vlajka": "./images/dansko.png",
+    "uroven": "začiatočník",
+    "priatelia": "19",
+    "uspechy": "15/100",
+    "aktivita": "offline"
+  },
+  {
+    "id": 17,
+    "meno": "Hilda Berger",
+    "vlajka": "./images/nemecko.png",
+    "uroven": "pokročilý",
+    "priatelia": "29",
+    "uspechy": "89/100",
+    "aktivita": "online"
+  },
+  {
+    "id": 18,
+    "meno": "František Smrek",
+    "vlajka": "./images/slovensko2.png",
+    "uroven": "stredne pokročilý",
+    "priatelia": "14",
+    "uspechy": "50/100",
+    "aktivita": "away"
+  },
+  {
+    "id": 19,
+    "meno": "Giovanni Gorgio",
+    "vlajka": "./images/taliansko.png",
+    "uroven": "začiatočník",
+    "priatelia": "5",
+    "uspechy": "2/100",
+    "aktivita": "offline"
+  },
+  {
+    "id": 20,
+    "meno": "Adam Smith",
+    "vlajka": "./images/uk.png",
+    "uroven": "pokročilý",
+    "priatelia": "38",
+    "uspechy": "97/100",
+    "aktivita": "online"
+  },
+  {
+    "id": 21,
+    "meno": "Jakub Blaczskowoscki",
+    "vlajka": "./images/polsko.png",
+    "uroven": "pokročilý",
+    "priatelia": "83",
+    "uspechy": "95/100",
+    "aktivita": "away"
+  },
+  {
+    "id": 22,
+    "meno": "Alex McDonald",
+    "vlajka": "./images/kanada.png",
+    "uroven": "začiatočník",
+    "priatelia": "22",
+    "uspechy": "6/100",
+    "aktivita": "offline"
+  },
+  {
+    "id": 23,
+    "meno": "Alojz Blatník",
+    "vlajka": "./images/slovensko2.png",
+    "uroven": "stredne pokročilý",
+    "priatelia": "8",
+    "uspechy": "37/100",
+    "aktivita": "offline"
+  }
+]

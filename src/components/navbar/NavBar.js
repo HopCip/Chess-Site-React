@@ -15,7 +15,7 @@ import PsychologyIcon from '@mui/icons-material/Psychology'
 import { Link } from 'react-router-dom'
 
 const pages = ['Domov', 'Lekcie', 'Diagramy', 'Kvízy', 'Cenník']
-const settings = ['Profil', 'Účet', 'Dashboard', 'Odhlásiť sa']
+const settings = ['Profil', 'Dashboard', 'Nastavenia', 'Odhlásiť sa']
 
 function NavBar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null)
@@ -145,7 +145,7 @@ function NavBar() {
           </Box>
 
           <Box sx={{ flexGrow: 0 }}>
-            <Tooltip title="Open settings">
+            <Tooltip title="Otvoriť nastavenia">
               <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
                 <Avatar alt="Remy Sharp" src="/static/images/avatar/2.jpg" />
               </IconButton>
@@ -167,7 +167,13 @@ function NavBar() {
               onClose={handleCloseUserMenu}
             >
               {settings.map((setting) => (
-                <MenuItem key={setting} onClick={handleCloseUserMenu}>
+                <MenuItem
+                  key={setting}
+                  component={Link} // Použite komponentu Link namiesto div elementu
+                  to={`/${setting.toLowerCase()}`}
+                  onClick={handleCloseUserMenu}
+                  style={{ textDecoration: 'none', color: 'black' }}
+                >
                   <Typography textAlign="center">{setting}</Typography>
                 </MenuItem>
               ))}

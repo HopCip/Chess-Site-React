@@ -1,4 +1,4 @@
-link: chess-site-react-lh.netlify.app
+link: [https://chess-site-react.netlify.app/domov](https://chess-site-react.netlify.app)
 
 # Getting Started with Create React App
 

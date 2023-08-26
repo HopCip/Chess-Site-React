@@ -8,6 +8,7 @@ import FormControlLabel from '@mui/material/FormControlLabel'
 import Switch from '@mui/material/Switch'
 import Grid from '@mui/material/Grid'
 import { styled } from '@mui/material/styles'
+import Button from '@mui/material/Button'
 
 const Nastavenia = () => {
   const Item = styled(Paper)(({ theme }) => ({
@@ -219,6 +220,14 @@ const Nastavenia = () => {
                 </Item>
               </Grid>
             </Grid>
+            <Box
+              sx={{ display: 'flex', justifyContent: 'center', marginTop: 5 }}
+            >
+              <Button variant="contained">Uložiť</Button>
+              <Button variant="outlined" color="error" sx={{ marginLeft: 2 }}>
+                Zrušiť
+              </Button>
+            </Box>
           </Box>
         </Box>
       </Box>

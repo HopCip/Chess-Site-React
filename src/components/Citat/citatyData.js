@@ -21,7 +21,7 @@ const citatyData = [
   },
   {
     id: 5,
-    text: 'The chessboard is the world, the pieces are the phenomena of the Universe, the rules of the game are what we call the laws of Nature and the player on the other side is hidden from us”',
+    text: 'The chessboard is the world, the pieces are the phenomena of the Universe, the rules of the game are what we call the laws of Nature and the player on the other side is hidden from us',
     author: 'Thomas Huxley',
   },
   {
@@ -51,7 +51,7 @@ const citatyData = [
   },
   {
     id: 11,
-    text: 'Every Chess master was once a beginner”',
+    text: 'Every Chess master was once a beginner',
     author: 'Chernev',
   },
   {

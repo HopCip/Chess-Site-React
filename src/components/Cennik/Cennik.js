@@ -55,7 +55,7 @@ export default function Cennik() {
       <Container
         maxWidth="md"
         component="main"
-        sx={{ paddingY: 4, paddingX: 0 }}
+        sx={{ paddingY: 4, paddingX: 2 }}
       >
         <Typography
           component="h1"

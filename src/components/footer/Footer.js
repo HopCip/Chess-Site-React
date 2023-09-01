@@ -16,18 +16,50 @@ const Footer = () => {
         width: '100%',
         backgroundColor: 'primary.dark',
         display: 'flex',
+        flexDirection: {
+          xs: 'column',
+          sm: 'column',
+          md: 'row',
+          lg: 'row',
+          xl: 'row',
+        },
         alignItems: 'center',
         justifyContent: 'space-between',
         color: '#ffffff',
       }}
     >
-      <Box>
-        <Typography variant="h6" gutterBottom>
+      <Box className="hokus">
+        <Typography
+          variant="h6"
+          gutterBottom
+          sx={{
+            paddingBottom: {
+              xs: 2,
+              sm: 2,
+              md: 0,
+              lg: 0,
+              xl: 0,
+            },
+          }}
+        >
           ŠACHUJ s nami hneď
         </Typography>
       </Box>
       <Box>
-        <Typography variant="body2" gutterBottom>
+        <Typography
+          className="pokus"
+          variant="body2"
+          gutterBottom
+          sx={{
+            paddingBottom: {
+              xs: 3,
+              sm: 3,
+              md: 0,
+              lg: 0,
+              xl: 0,
+            },
+          }}
+        >
           Copyright © HopCip. All Rights Reserved
         </Typography>
       </Box>

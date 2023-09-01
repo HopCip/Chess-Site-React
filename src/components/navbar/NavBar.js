@@ -38,7 +38,7 @@ function NavBar() {
 
   return (
     <AppBar position="static">
-      <Container maxWidth="xl">
+      <Container sx={{ maxWidth: '2400px !important' }}>
         <Toolbar disableGutters>
           <PsychologyIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
           <Typography

@@ -16,6 +16,7 @@ const Difficulties = ({
     <Box
       sx={{
         display: 'flex',
+        flexWrap: 'wrap',
         justifyContent: 'center',
         gap: 4,
         marginBottom: 4,

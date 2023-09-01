@@ -127,7 +127,10 @@ function NavBar() {
               <Link
                 key={page}
                 to={`/${page.toLowerCase()}`}
-                style={{ textDecoration: 'none' }}
+                style={{
+                  textDecoration: 'none',
+                  color: 'black',
+                }}
               >
                 <Button
                   variant="body1"
@@ -169,7 +172,7 @@ function NavBar() {
               {settings.map((setting) => (
                 <MenuItem
                   key={setting}
-                  component={Link} // Použite komponentu Link namiesto div elementu
+                  component={Link}
                   to={`/${setting.toLowerCase()}`}
                   onClick={handleCloseUserMenu}
                   style={{ textDecoration: 'none', color: 'black' }}

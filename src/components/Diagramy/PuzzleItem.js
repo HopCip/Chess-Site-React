@@ -3,7 +3,6 @@ import Paper from '@mui/material/Paper'
 import Typography from '@mui/material/Typography'
 import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
-
 import { styled } from '@mui/material/styles'
 import Rating from '@mui/material/Rating'
 import FavoriteIcon from '@mui/icons-material/Favorite'
@@ -47,6 +46,13 @@ const PuzzleItem = ({ title, difficulty, img, category }) => {
           sx={{
             paddingX: 2,
             display: 'flex',
+            flexDirection: {
+              xs: 'column',
+              sm: 'column',
+              md: 'row',
+              lg: 'row',
+              xl: 'row',
+            },
             justifyContent: 'space-between',
           }}
         >
@@ -81,7 +87,19 @@ const PuzzleItem = ({ title, difficulty, img, category }) => {
             </Button>
           </Box>
         </Box>
-        <Box sx={{ paddingLeft: 2, '& > legend': { mt: 2 } }}>
+        <Box
+          sx={{
+            paddingLeft: 2,
+            marginTop: {
+              xs: 2,
+              sm: 2,
+              md: 0,
+              lg: 0,
+              xl: 0,
+            },
+            '& > legend': { mt: 2 },
+          }}
+        >
           <StyledRating
             name="customized-color"
             defaultValue={0}

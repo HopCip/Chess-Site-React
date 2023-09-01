@@ -86,7 +86,7 @@ const Diagramy = () => {
           <Grid container spacing={4}>
             {displayItems.map((one) => {
               return (
-                <Grid key={one.id} item xs={6}>
+                <Grid key={one.id} item xs={12} sm={12} md={6} lg={6} xl={6}>
                   <PuzzleItem {...one} elevation={2} />
                 </Grid>
               )

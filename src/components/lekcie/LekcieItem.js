@@ -10,12 +10,32 @@ const LekcieItem = ({ getCategoryButtonColor, ...one }) => {
       <Box
         sx={{
           display: 'flex',
+          flexDirection: {
+            xs: 'column',
+            sm: 'column',
+            md: 'row',
+            lg: 'row',
+            xl: 'row',
+          },
         }}
       >
         <Box
           sx={{
             paddingLeft: 2,
-            width: '45%',
+            paddingRight: {
+              xs: 2,
+              sm: 2,
+              md: 0,
+              lg: 0,
+              xl: 0,
+            },
+            width: {
+              xs: '100%',
+              sm: '100%',
+              md: '45%',
+              lg: '45%',
+              xl: '45%',
+            },
             minHeight: 300,
           }}
         >
@@ -31,7 +51,13 @@ const LekcieItem = ({ getCategoryButtonColor, ...one }) => {
         </Box>
         <Box
           sx={{
-            width: '55%',
+            width: {
+              xs: '100%',
+              sm: '100%',
+              md: '45%',
+              lg: '45%',
+              xl: '45%',
+            },
             paddingY: 2,
             paddingX: 4,
           }}

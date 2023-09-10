@@ -11,6 +11,13 @@ const MainItem = ({ id, title, buttonText, img, text }) => {
       <Box
         sx={{
           display: 'flex',
+          flexDirection: {
+            xs: 'column',
+            sm: 'column',
+            md: 'row',
+            lg: 'row',
+            xl: 'row',
+          },
         }}
       >
         <Box

@@ -1,4 +1,12 @@
-HTML, CSS, JAVASCRIPT, REACT, MATERIAL UI;
-IN PROGRESS;
-link: [https://chess-site-react.netlify.app/domov](https://chess-site-react.netlify.app)
+## 
+
+HTML, CSS, JAVASCRIPT, REACT, MATERIAL UI
+
+## Project status
+
+- IN PROGRESS
+
+## Link
+
+[Chess Site React](https://chess-site-react.netlify.app/domov)
 

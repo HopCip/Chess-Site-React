@@ -8,5 +8,5 @@ HTML, CSS, JAVASCRIPT, REACT, MATERIAL UI
 
 ## Link
 
-[Chess Site React](https://chess-site-react.netlify.app/domov)
+chess-site-lh.netlify.app
 
